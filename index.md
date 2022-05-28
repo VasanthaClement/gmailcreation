@@ -28,6 +28,6 @@ Step 9: Google will present the privacy policies for your Google Account. Once y
 
 That’s it! It’s pretty easy, isn’t it? Now it’s time to enjoy Google services with your Google account.
 
-Troubleshoot Problem
-Forgot User Name or Passward (https://support.google.com/accounts/answer/7682439?hl=en)
-Two Step Verification (https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Activate%202%2DStep%20Verification,Follow%20the%20on%2Dscreen%20steps.)
+Troubleshoot Problem:
+- Forgot User Name or Passward (https://support.google.com/accounts/answer/7682439?hl=en)
+- Two Step Verification (https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Activate%202%2DStep%20Verification,Follow%20the%20on%2Dscreen%20steps.)
