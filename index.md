@@ -8,7 +8,7 @@ To create a Google Account, you'll need to enter some information like your name
 
 ### To Create an Account:
 
-- Step 1: Open your browser and type [https://www.google.com] (https://www.google.com)
+- Step 1: Open your browser and type [Gmail] (https://www.google.com)
 
 - Step 2: On the right top of the screen, Click Sign in button.
 
