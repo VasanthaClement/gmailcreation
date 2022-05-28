@@ -4,7 +4,7 @@ Sign up a Google Account is easy. User will begin by created a Google Account . 
 
 ##Create a Google Account
 
-To create a Google Account, you'll need to enter some information like your name, birth date and location. Creating a Google account will automatically create a Gmail email address.
+To create a Google Account, you'll need to enter some information like your name, birth date, and location. Creating a Google account will automatically create a Gmail email address.
 
 To Create an Account:
 
