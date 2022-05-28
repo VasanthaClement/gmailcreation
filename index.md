@@ -30,4 +30,4 @@ That’s it! It’s pretty easy, isn’t it? Now it’s time to enjoy Google ser
 
 Troubleshoot Problem
 Forgot User Name or Passward [https://support.google.com/accounts/answer/7682439?hl=en]
-2-Step Verification [https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Activate%202%2DStep%20Verification,Follow%20the%20on%2Dscreen%20steps.]
+Two Step Verification [https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Activate%202%2DStep%20Verification,Follow%20the%20on%2Dscreen%20steps.]
