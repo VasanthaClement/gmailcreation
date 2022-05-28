@@ -8,7 +8,7 @@ To create a Google Account, you'll need to enter some information like your name
 
 ### To Create an Account:
 
-- Step 1: Open your browser and type [Gmail] (https://www.google.com)
+- Step 1: Open your browser and type [Gmail](https://www.google.com)
 
 - Step 2: On the right top of the screen, Click Sign in button.
 
@@ -29,5 +29,5 @@ To create a Google Account, you'll need to enter some information like your name
 That’s it! It’s pretty easy, isn’t it? Now it’s time to enjoy Google services with your Google account.
 
 Troubleshoot Problem:
-- Forgot User [Name or Password] (https://support.google.com/accounts/answer/7682439?hl=en)
-- Two [Step Verification] (https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Activate%202%2DStep%20Verification,Follow%20the%20on%2Dscreen%20steps.)
+- Forgot User [Name or Password](https://support.google.com/accounts/answer/7682439?hl=en)
+- Two [Step Verification](https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid#:~:text=Activate%202%2DStep%20Verification,Follow%20the%20on%2Dscreen%20steps.)
